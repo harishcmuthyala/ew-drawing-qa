@@ -1,0 +1,18 @@
+{
+    "Page-2": [
+        "1.Capture the total length from the side view section of the drawing.",
+        "2.Capture the diameter of the hole.",
+        "3.Capture the width of the part."
+    ],
+    "Page-3": [
+        "1.Capture the distance between center of the hole to the edge of the part.",
+        "2.Capture the Chamfer angle.",
+        "3.Capture the distance between two holes of the part.",
+        "4.Capture the counterbore data and depth data."
+    ],
+    "Page-5": [
+        "1.Capture the thickness of the disc structure.",
+        "2.Capture the diameter of the circle joining the center of the three holes",
+        "3. Capture all the data regarding diameters."
+    ]
+}

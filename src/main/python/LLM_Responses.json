@@ -1,0 +1,40 @@
+{
+    "Page-2": {
+        "questions": [
+            "1.Capture the total length from the side view section of the drawing.",
+            "2.Capture the diameter of the hole.",
+            "3.Capture the width of the part."
+        ],
+        "answers": [
+            "To capture the total length from the side view section of the drawing:\n\n1. The overall length is indicated as **75 mm**.\n2. The length of the inclined section (the sloped part) is not explicitly stated, but the total length remains **75 mm** as shown in the side view.\n\nThus, the total length from the side view is **75 mm**.",
+            "The diameter of the hole is indicated as \u00d815 mm in the drawing.",
+            "To capture the width of the part from the provided technical drawing, you can refer to the dimensions indicated. \n\nFrom the top view, the total width of the part is shown as **75 mm**. In the front view, the width between the two outer edges is **60 mm**. \n\nIf you're looking for a specific section or feature's width, please specify which part you're interested in!"
+        ]
+    },
+    "Page-3": {
+        "questions": [
+            "1.Capture the distance between center of the hole to the edge of the part.",
+            "2.Capture the Chamfer angle.",
+            "3.Capture the distance between two holes of the part.",
+            "4.Capture the counterbore data and depth data."
+        ],
+        "answers": [
+            "To capture the distance from the center of the hole to the edge of the part, you can refer to the provided dimensions in the drawing. \n\n1. **Locate the Hole**: The hole is indicated with a diameter of 6 mm, and its center is aligned vertically.\n2. **Distance Measurements**:\n   - The horizontal distance from the center of the hole to the left edge of the part is half the distance between the two holes (which is 25 mm), plus the distance from the left edge to the center of the left hole (which is half of the 6 mm diameter, i.e., 3 mm). This totals to \\( (25/2) + 3 = 12.5 + 3 = 15.5 \\) mm.\n   - The distance from the center of the hole to the right edge would be similar, given symmetry.\n\nSo, the distance from the center of the hole to the edge of the part is approximately **15.5 mm**.",
+            "To capture the chamfer angle from the provided drawing, look for the notation that indicates the chamfer specifications. In the image, it states:\n\n- **Chamfer**: 3 x 45\u00b0\n\nThis means there is a chamfer that is 3 mm wide at a 45-degree angle on the specified edges. \n\nIf you have any further questions about the drawing or need additional details, feel free to ask!",
+            "To find the distance between the two holes of the part in the provided drawing, we can analyze the dimensions given. \n\nFrom the drawing:\n\n- The two holes are indicated as having a diameter of 6 mm and are located on the top face of the bracket.\n- The center-to-center distance between the two holes can be calculated based on the overall width of the part and the dimensions provided.\n\n### Calculation:\n\n1. The total width of the part is 110 mm.\n2. Each hole is positioned symmetrically, so the distance between the centers of the holes can be derived from the overall width.\n\nGiven that the holes are aligned and centered:\n\n- Each hole is located 25 mm from the sides of the part, meaning the distance between the centers of the two holes is:\n  \n\\[\n\\text{Distance between hole centers} = \\text{Total Width} - 2 \\times \\text{Distance from edge to hole center} = 110 \\, \\text{mm} - 2 \\times 25 \\, \\text{mm} = 60 \\, \\text{mm}\n\\]\n\n### Conclusion:\n\nThe distance between the centers of the two holes is **60 mm**.",
+            "The counterbore and depth data from the provided drawing can be summarized as follows:\n\n### Counterbore Data\n- **Diameter**: \u00d812 mm\n- **Depth**: 5 mm\n- **Quantity**: 2 places\n\n### Depth Data\n- The overall depth of the part is indicated as 30 mm (from the side view).\n\nIf you need any further details or clarifications, feel free to ask!"
+        ]
+    },
+    "Page-5": {
+        "questions": [
+            "1.Capture the thickness of the disc structure.",
+            "2.Capture the diameter of the circle joining the center of the three holes",
+            "3. Capture all the data regarding diameters."
+        ],
+        "answers": [
+            "The thickness of the disc structure in the provided drawing is indicated as **3 mm**.",
+            "To find the diameter of the circle joining the centers of the three holes in the provided drawing, we can follow these steps:\n\n1. **Identify the hole positions**: The drawing shows three holes (M3x0.5) located at a distance of 12 mm from the center of the circle. The holes appear to be evenly spaced.\n\n2. **Calculate the distance from the center**: Since the holes are positioned 12 mm from the center of the circle, the radius of the circle that joins the centers of the holes is 12 mm.\n\n3. **Determine the diameter**: The diameter of the circle is twice the radius. Therefore, the diameter can be calculated as:\n   \\[\n   \\text{Diameter} = 2 \\times \\text{Radius} = 2 \\times 12 \\, \\text{mm} = 24 \\, \\text{mm}\n   \\]\n\nThus, the diameter of the circle joining the centers of the three holes is **24 mm**.",
+            "Here are the diameters captured from the drawing:\n\n1. **\u03c650** - Diameter of the larger circle.\n2. **\u03c640** - Diameter of the middle circle.\n3. **\u03c612** - Diameter of the smaller circle.\n4. **\u03c625** - Diameter indicated in the section view.\n\nThese diameters are all specified in millimeters."
+        ]
+    }
+}
